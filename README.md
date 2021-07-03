@@ -1,20 +1,20 @@
-# 2ImageFarklı
- OpenCV ve Tkinter 2 görüntüyü farklı buluyor.
+# 2ImageDifferent
+ OpenCV and Tkinter 2 find the image different.
 
 
-<p hizalama="merkez">
-  <img title="" src="https://github.com/yessGlory17/2ImageDifferent/blob/main/screenshots/s1.JPG" alt="" data-align="center" width="100%" height= "700 piksel">
+<p align="center">
+  <img title="" src="https://github.com/yessGlory17/2ImageDifferent/blob/main/screenshots/s1.JPG" alt="" data-align="center" width="100%" height= "700px">
 </p>
 
 
-## Proje Hedefi
-Bu projeyi basit bir okul ödevi için yaptım. eğlenmeye çalıştım.
+## Project Goal
+I made this project for a simple school assignment. I tried to have fun.
 
-## Proje Çalıştırma
+## Project Run
 ```
-piton ana.py
+python main.py
 ```
 
-## Proje Bağımlılığı
+## Project Dependency
 - OpenCV
 - Tkinter
