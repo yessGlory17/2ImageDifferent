@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img title="" src="https://github.com/yessGlory17/2ImageDifferent/blob/main/screenshots/s1.JPG" alt="" data-align="center" width="100%" height= "700px">
+  <img title="" style="object-fit:cover;" src="https://github.com/yessGlory17/2ImageDifferent/blob/main/screenshots/s1.JPG" alt="" data-align="center" width="100%" height= "700px">
 </p>
 
 
